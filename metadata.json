@@ -1,7 +1,7 @@
 {
-  "name": "example.com",
-  "website": "https://www.example.com",
+  "name": "eigenlayer-test-node",
+  "website": "https://github.com/tharindud/eigenlayer-test-node/",
   "description": "eigenlayer node on example.com",
-  "logo": "https://www.example.com/logo.png",
+  "logo": "https://raw.githubusercontent.com/tharindud/eigenlayer-test-node/refs/heads/main/logo.png",
   "twitter": "x.com/example.com"
 }
